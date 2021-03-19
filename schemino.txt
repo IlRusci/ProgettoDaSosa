@@ -1,6 +1,6 @@
 CLASS MENU
 
-1. class start: chiedere nome player, parte la canzoncina, class che 
+1. class start: parte la canzoncina, class che 
 fa partire le domande
 
 2. class aggiungi domanda: chiedere di inserire domanda
@@ -10,3 +10,10 @@ fa partire le domande
 4. class crediti: cout con i nomi degli sviluppatori
 
 5. class esci: stacca tutto
+
+6. class lista domande: domanda, risposte, risposta corretta
+
+CLASS START
+aiuto da casa, salta domanda, dimezza le risposte, visualizza domanda
+e risposte (richiama class lista domande), visualizza esito risposta e 
+montepremi
