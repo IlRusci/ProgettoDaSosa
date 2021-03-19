@@ -1,0 +1,12 @@
+CLASS MENU
+
+1. class start: chiedere nome player, parte la canzoncina, class che 
+fa partire le domande
+
+2. class aggiungi domanda: chiedere di inserire domanda
+
+3. class record: salva partite giocate precedentemente
+
+4. class crediti: cout con i nomi degli sviluppatori
+
+5. class esci: stacca tutto
