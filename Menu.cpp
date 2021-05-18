@@ -66,7 +66,7 @@ void Menu :: visualizza_crediti(){
 	system("clear");
 	string s1;
 	cout<<"CREDITI"<<endl<<endl;
-	cout<<"Simone Giannetto"<<endl<<"Tommaso Rossello"<<endl<<"Fabio Ruscillo"<<endl<<endl;
+	cout<<"Simone Giannettoo"<<endl<<"Tommaso Rossello"<<endl<<"Fabio Ruscillo"<<endl<<endl;
 	cout<<"Premere invio per tornare nel menu..."<<endl;
 	cin.clear(); cin.ignore(1);
 	getline(cin,s1);
