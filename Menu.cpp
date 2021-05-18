@@ -2,8 +2,12 @@
 #include <cstdlib>
 #include <fstream>
 #include "Menu.h"
+#include <windows.h>
 using namespace std;
-
+int main(){
+  sndPlaySounds("StudioMobGit.wav", SND_ASYNC)
+  system("PAUSE");
+}
 Menu :: Menu() : l(), s(l){
 	visualizza_menu();
 }
