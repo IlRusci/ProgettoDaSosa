@@ -22,12 +22,12 @@ Quanti sono i principi della Croce Rossa?
 3) 4
 4) 6
 1
-Quanti bit ha il registro KBD_DATA?
-1) 16
-2) 32
-3) 8
-4) 64
-3
+Come si chiama il premio in palio al festival internazionale del cinema di Venezia?
+1) David di Donatello
+2) Leone d'oro
+3) Oscar della laguna
+4) Palma d'oro
+2
 La regola di introduzione dell' implica nella logica proposizionale classica e'...
 1) Invertibile ma non corretta
 2) Corretta ma non invertibile
@@ -39,13 +39,13 @@ Nella stanza dello Spirito e del Tempo di Dragon Ball
 2) Un mese equivale ad un giorno sulla Terra
 3) Un giorno equivale ad un anno sulla Terra
 4) Un giorno equivale ad un mese sulla Terra
+1 
+Nei tempi antichi e fino al secolo scorso si chiamava "Persia". Qual è il nome odierno di questo paese oggi?
+1) Iran
+2) Kuwait
+3) Arabia Saudita
+4) Iraq
 1
-Cosa vuol dire "to give a shout out" in inglese?
-1) Urlare molto forte
-2) Fare dei ringraziamenti
-3) Calciare (azione sportiva)
-4) Fare un regalo
-2
 Cosa vuol dire "ru'mt" in dialetto barese?
 1) Rum
 2) Rom
@@ -58,11 +58,11 @@ Mike Shinoda e' il membro di quale famosa band musicale?
 3) Linkin Park
 4) The Cranberries
 3
-Il WannaCry e'
-1) Un' azienda di videogiochi
-2) Un ransomware
-3) Una challenge su internet
-4) Un bug di Ubuntu
+Chi fu soprannominato il "Flagello di Dio"?
+1)Gengis Khan
+2) Attila
+3) Napoleone
+4) Alessandro Magno
 2
 Steve Jobs mori' nel
 1) 2010
@@ -136,12 +136,12 @@ Qual e' l' elemento piu' elettronegativo della tavola periodica?
 3) Fluoro
 4) Uranio
 3
-Chi fu il leader della Germania durante la Prima Guerra Mondiale?
-1) Otto Von Bismarck
-2) Kaiser Guglielmo
-3) Kaiser Carlo
-4) Adolf Hitler
-2
+Come si chiama il canale che separa il Mediterraneo dal Mar Rosso?
+1) Di Panama
+2) Di Tunisi
+3) Di Suez
+4) Del Nilo
+3
 Qual e' la lingua ufficiale delle Bahamas?
 1) Francese
 2) Portoghese
@@ -208,12 +208,12 @@ In che anno Neymar ha firmato per il Barcelona?
 3) 2013
 4) 2015
 3
-Nella saga di Harry Potter, qual' era la mascotte di Neville Longbottom?
-1) Un rospo
-2) Un grifone
-3) Un drago
-4) Un cavallo
-1
+Cosa significa la sigla ONG?
+1) Ospedale Non Governativo
+2) Organizzazione Non Governativa
+3) Organizzazione Nazionale Governativa
+4) Ordine Nazista Giornalisti
+2
 Quale pilota ha vinto quattro mondiali consecutivi di formula 1?
 1) Lewis Hamilton
 2) Sebastian Vettel
@@ -280,12 +280,12 @@ Quale di questi pokemon e' di tipo acqua?
 3) Goldeen
 4) Blaziken
 3
-Come si chiama la malattia trasmessa dall’insetto barbiere? 
-1) Malattia di Chagas
-2) Malattia di Arnolds
-3) Zika
-4) Clarissa
-1
+Quando è entrato in vigore in Italia il divieto di fumare nei locali pubblici?
+1) Nel 2005
+2) Nel 2002
+3) Nel 2006
+4) Nel 2003
+4
 Qual e' il lago più profondo al mondo? 
 1) Tajmyr
 2) Onega
