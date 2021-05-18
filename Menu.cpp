@@ -17,6 +17,7 @@ void Menu :: visualizza_menu(){
 	do{
 	        system("clear");
         	cout<<"CHI VUOL ESSERE MILIONARIO"<<endl<<endl;
+		system("Color E4");
         	cout<<"1) Inizia gioco"<<endl;
         	cout<<"2) Aggiungi domanda"<<endl;
         	cout<<"3) Record"<<endl;
