@@ -5,8 +5,9 @@
 #include <windows.h>
 using namespace std;
 int main(){
-  sndPlaySounds("StudioMobGit.wav", SND_ASYNC)
-  system("PAUSE");
+	PlaySound("StudioMobGit.wav", NULL, SND_FILENAME | SND_ASYNC);
+      system("pause");
+      return 0;
 }
 Menu :: Menu() : l(), s(l){
 	visualizza_menu();
