@@ -5,7 +5,7 @@
 #include <windows.h>
 using namespace std;
 int main(){
-	PlaySound("StudioMobGit.wav", NULL, SND_FILENAME | SND_ASYNC);
+      PlaySound("StudioMobGit.wav", NULL, SND_FILENAME | SND_ASYNC);
       system("pause");
       return 0;
 }
