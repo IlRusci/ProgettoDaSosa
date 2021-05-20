@@ -91,3 +91,4 @@ void Start :: visualizza_aiuto(Domanda d){
 	}while(x<1 || x>3);
 	a.usa_aiuto(l,d,x);
 }
+ 
