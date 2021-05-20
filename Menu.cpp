@@ -16,7 +16,7 @@ Menu :: Menu() : l(), s(l){
 void Menu :: visualizza_menu(){
 	int x;
 	do{
-	        system("clear");
+	        system("cls");
         	cout<<"CHI VUOL ESSERE MILIONARIO"<<endl<<endl;
 		system("Color E4");
         	cout<<"1) Inizia gioco"<<endl;
@@ -63,7 +63,7 @@ void Menu :: visualizza_record(){
 }
 
 void Menu :: visualizza_crediti(){
-	system("clear");
+	system("cls");
 	string s1;
 	cout<<"CREDITI"<<endl<<endl;
 	cout<<"Simone Giannettoo"<<endl<<"Tommaso Rossello"<<endl<<"Fabio Ruscillo"<<endl<<endl;
