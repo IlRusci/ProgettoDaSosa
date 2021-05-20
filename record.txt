@@ -1,4 +1,4 @@
-Nome, record, numero aiuti
+Nome, record, numero aiuti 
 Luca 0 0
 Luca 6 0
 Luca 0 1
