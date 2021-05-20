@@ -1,4 +1,4 @@
-#include "Start.h"
+#include "Start.h" 
 
 Start :: Start(ListaDomande lista) : a(){
 	l = lista;
