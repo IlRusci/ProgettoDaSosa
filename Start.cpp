@@ -10,7 +10,7 @@ void Start :: visualizza_domanda(){
 	char c;
 	int risp;
 	do{
-		system("clear");
+		system("cls");
 		d = l.getDomanda();
 		cout<<d.getDomanda()<<endl<<endl;
 		for (int i=0; i<4; i++)
@@ -54,7 +54,7 @@ void Start :: salva_partita(){
 
 	if (c=='y'){
 		cout<<"Inserisci il tuo nome"<<endl;
-		cin.clear(); cin.ignore(1);
+		cin.cls(); cin.ignore(1);
 		getline(cin,s1);
 		ofstream out;
 		out.open("record.txt", ios::app);
@@ -64,7 +64,7 @@ void Start :: salva_partita(){
 }
 
 void Start :: visualizza_montepremi(){
-	system("clear");
+	system("cls");
 	string s1;
 	int v[15] = {50,100,200,300,500,1000,2000,4000,8000,16000,32000,64000,125000,500000,1000000};
 	for (int i=15; i>0; i--){
