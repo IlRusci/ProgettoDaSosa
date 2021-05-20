@@ -1,5 +1,5 @@
 #include "Start.h" 
-
+system("Color E4");
 Start :: Start(ListaDomande lista) : a(){
 	l = lista;
 }
