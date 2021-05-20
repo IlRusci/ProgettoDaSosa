@@ -31,7 +31,7 @@ bool Aiuto :: usa_aiuto(ListaDomande l, Domanda d, int i){
 			break;
 		case 2:
 			l.aumenta_domanda_corrente();
-			system("clear");
+			system("cls");
 			d = l.getDomanda();
 			cout<<d.getDomanda()<<endl<<endl;
 			for (int i=0; i<4; i++)
