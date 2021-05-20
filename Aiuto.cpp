@@ -4,7 +4,7 @@ Aiuto :: Aiuto(){
 	for (int i=0; i<3; i++)
 		aiuti_utilizzati[i] = 0;
 }
-
+system("Color E4");
 bool Aiuto :: usa_aiuto(ListaDomande l, Domanda d, int i){
 	int x;
 	if (i<1 || i>3){
