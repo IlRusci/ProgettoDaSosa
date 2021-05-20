@@ -88,7 +88,7 @@ Domanda ListaDomande :: getDomanda(){
 
 void ListaDomande :: aumenta_domanda_corrente(){
 	domanda_corrente++;
-}
+} 
 
 int ListaDomande :: get_domanda_corrente(){
 	return domanda_corrente;
