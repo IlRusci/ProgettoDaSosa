@@ -53,12 +53,12 @@ void Menu :: visualizza_record(){
 	ifstream in;
 	in.open("record.txt");
 	string s1;
-	system("clear");
+	system("cls");
 	while(getline(in,s1)){
 		cout<<s1<<endl;
 	}
 	cout<<endl<<"Premere invio per tornare nel menu..."<<endl;
-	cin.clear(); cin.ignore(1);
+	cin.cls(); cin.ignore(1);
 	getline(cin,s1);
 }
 
@@ -68,6 +68,6 @@ void Menu :: visualizza_crediti(){
 	cout<<"CREDITI"<<endl<<endl;
 	cout<<"Simone Giannettoo"<<endl<<"Tommaso Rossello"<<endl<<"Fabio Ruscillo"<<endl<<endl;
 	cout<<"Premere invio per tornare nel menu..."<<endl;
-	cin.clear(); cin.ignore(1);
+	cin.cls(); cin.ignore(1);
 	getline(cin,s1);
 }
