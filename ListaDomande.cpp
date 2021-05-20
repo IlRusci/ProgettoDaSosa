@@ -50,18 +50,18 @@ void ListaDomande :: visualizza_domande(Domanda d1[], int i){
 		cout<<d1[j].getDomanda()<<endl;
 	}
 	cout<<"-------------------------------------------------"<<endl;
-	cin.clear(); cin.ignore();
+	cin.cls(); cin.ignore();
 	getline(cin,s1);
 }
 
 void ListaDomande :: aggiungi_domanda(){
 	ofstream out;
 	out.open("domande.txt", ios::app);
-	system("clear");
+	system("cls");
 	string s1;
 	int c;
 	cout<<"Inserisci testo domanda: ";
-	cin.clear(); cin.ignore(1);
+	cin.cls(); cin.ignore(1);
 	getline(cin,s1);
 	out << s1 << endl;
 	for (int i=0; i<4; i++){
