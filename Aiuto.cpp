@@ -64,3 +64,4 @@ void Aiuto :: risetta(){
                 aiuti_utilizzati[i] = 0;
 
 }
+ 
