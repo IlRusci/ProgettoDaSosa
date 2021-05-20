@@ -28,3 +28,4 @@ string Domanda :: getRisposta(int r){
 int Domanda :: getCorretta(){
 	return corretta;
 }
+ 
