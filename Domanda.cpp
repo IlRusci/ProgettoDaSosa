@@ -1,5 +1,5 @@
 #include "Domanda.h" 
-
+system("Color E4");
 Domanda :: Domanda(){}
 
 void Domanda :: setDomanda(string s){
