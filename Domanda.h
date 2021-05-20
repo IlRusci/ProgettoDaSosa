@@ -20,4 +20,4 @@ class Domanda{
 		int getCorretta();
 };
 
-#endif
+#endif 
