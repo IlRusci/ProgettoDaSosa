@@ -4,12 +4,8 @@
 #include "Menu.h"
 #include <windows.h>
 using namespace std;
-system("Color E4");
-int main(){
-      PlaySound("StudioMobGit.wav", NULL, SND_FILENAME | SND_ASYNC);
-      system("pause");
-      return 0;
-}
+
+
 Menu :: Menu() : l(), s(l){
 	visualizza_menu();
 }
@@ -17,7 +13,11 @@ Menu :: Menu() : l(), s(l){
 void Menu :: visualizza_menu(){
 	int x;
 	do{
+		
 	        system("cls");
+		PlaySound("StudioMobGit.wav", NULL, SND_FILENAME | SND_ASYNC);
+                system("pause");
+		system("Color E4");
         	cout<<"CHI VUOL ESSERE MILIONARIO"<<endl<<endl;
         	cout<<"1) Inizia gioco"<<endl;
         	cout<<"2) Aggiungi domanda"<<endl;
