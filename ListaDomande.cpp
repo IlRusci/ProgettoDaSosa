@@ -1,6 +1,6 @@
 #include "ListaDomande.h" 
 #include <string>
-system("Color E4");
+
 ListaDomande :: ListaDomande(){
 	carica_domande();
 	domanda_corrente = 0;
