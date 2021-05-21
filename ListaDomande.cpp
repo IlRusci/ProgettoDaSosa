@@ -55,19 +55,28 @@ void ListaDomande :: visualizza_domande(Domanda d1[], int i){
 }
 
 void ListaDomande :: aggiungi_domanda(){
+	string s;
 	ofstream out;
 	out.open("domande.txt", ios::app);
 	system("cls");
 	string s1;
 	int c;
 	cout<<"Inserisci testo domanda: ";
-	cin.cls(); cin.ignore(1);
+	cin.clear(); cin.ignore(1);
 	getline(cin,s1);
 	out << s1 << endl;
 	for (int i=0; i<4; i++){
 		cout<<"Inserisci testo risposta "<<i+1<<": ";
 		getline(cin,s1);
-		s1 = to_string(i+1)+") "+s1;
+		if(i==0)
+			s="0";
+		if(i==1)
+			s="1";
+		if(i==2)
+			s="2";
+		if(i==3)
+			s="3";
+		s1 = s+") "+s1;
 		out << s1 << endl;
 	}
 	do{
