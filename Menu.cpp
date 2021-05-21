@@ -58,7 +58,7 @@ void Menu :: visualizza_record(){
 		cout<<s1<<endl;
 	}
 	cout<<endl<<"Premere invio per tornare nel menu..."<<endl;
-	cin.cls(); cin.ignore(1);
+	cin.clear(); cin.ignore(1);
 	getline(cin,s1);
 }
 
@@ -68,7 +68,7 @@ void Menu :: visualizza_crediti(){
 	cout<<"CREDITI"<<endl<<endl;
 	cout<<"Simone Giannettoo"<<endl<<"Tommaso Rossello"<<endl<<"Fabio Ruscillo"<<endl<<endl;
 	cout<<"Premere invio per tornare nel menu..."<<endl;
-	cin.cls(); cin.ignore(1);
+	cin.clear(); cin.ignore(1);
 	getline(cin,s1);
 }
  
