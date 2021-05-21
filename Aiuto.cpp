@@ -1,5 +1,5 @@
 #include "Aiuto.h" 
-system("Color E4");
+
 Aiuto :: Aiuto(){
 	for (int i=0; i<3; i++)
 		aiuti_utilizzati[i] = 0;
