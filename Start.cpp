@@ -1,5 +1,6 @@
 #include "Start.h" 
-system("Color E4");
+#include "Windows.h"
+
 Start :: Start(ListaDomande lista) : a(){
 	l = lista;
 }
@@ -24,6 +25,8 @@ void Start :: visualizza_domanda(){
 		if (risp == 5) visualizza_aiuto(d);
 		}while(risp==5);
 		if (controlla_corretta(d,risp)){
+			PlaySound("applausiwav.wav", NULL, SND_FILENAME | SND_ASYNC);
+                        system("pause");
 			cout<<"Risposta corretta!!"<<endl;
 			cout<<"Premi invio per andare avanti..."<<endl;
 			getline(cin,s1);
@@ -34,7 +37,8 @@ void Start :: visualizza_domanda(){
 				salva_partita();
 			}
 		}
-		else{
+		else{   PlaySound("trumpetwav.wav", NULL, SND_FILENAME | SND_ASYNC);
+                        system("pause");
 			cout<<"Risposta non corretta!!"<<endl;
 			salva_partita();
 		}
